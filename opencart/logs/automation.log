@@ -1,0 +1,6 @@
+23:48:29.453 [main] INFO  testBase.BaseClass - *** Starting TC_001_AccountRegistrationTest ***
+23:48:30.029 [main] INFO  testBase.BaseClass - Clicked on Register Link
+23:48:30.029 [main] INFO  testBase.BaseClass - Entering customer Details
+23:48:31.524 [main] INFO  testBase.BaseClass - Clicked on Register
+23:48:31.550 [main] INFO  testBase.BaseClass - Validating Expected Message....
+23:48:31.551 [main] INFO  testBase.BaseClass - **** Finished TC_001_AccountRegistration ****
